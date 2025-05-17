@@ -1,18 +1,29 @@
-# [Global: HTML5 website template](http://buckymaler.com/global)
+# Haseeb's Portfolio Website
 
-### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
+A modern, clean, and professional HTML5 website template designed to showcase my skills and projects in web development, Web3, and Linux.
 
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+This portfolio is built using HTML5, CSS (with Sass), and JavaScript (including jQuery), optimized for fast performance with minified assets and optimized images.
 
-The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
+Feel free to explore the live site to see my latest work and experience:  
+**[LIVE PREVIEW](https://haseeb2412.github.io/Haseeb-Portfolio/)**
 
-This project was developed with HTML5, Sass, jQuery, and Hammer.js.
+## About
 
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
+This template is a starting point for a sleek, one-page portfolio site tailored for creative professionals and developers. It’s fully customizable to fit your personal style or branding needs.
 
-[LIVE PREVIEW](http://buckymaler.com/global)
+## Technologies Used
 
-## Misc:
+- HTML5  
+- Sass (CSS preprocessor)  
+- JavaScript (jQuery)  
+- Optimized assets and images for performance
 
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
+## Connect with Me
+
+- GitHub: [github.com/haseeb2412](https://github.com/YourGitHub)  
+- LinkedIn: [linkedin.com/in/YourProfile](https://www.linkedin.com/in/muhammad-haseeb-a335772a7/)
+
+---
+
+*Feel free to fork, modify, and use this template for your own projects!*
+
