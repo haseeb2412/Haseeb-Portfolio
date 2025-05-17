@@ -21,7 +21,7 @@ This template is a starting point for a sleek, one-page portfolio site tailored 
 ## Connect with Me
 
 - GitHub: [github.com/haseeb2412](https://github.com/YourGitHub)  
-- LinkedIn: [linkedin.com/in/YourProfile](https://www.linkedin.com/in/muhammad-haseeb-a335772a7/)
+- LinkedIn: [linkedin.com/](https://www.linkedin.com/in/muhammad-haseeb-a335772a7/)
 
 ---
 
